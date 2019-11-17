@@ -18,6 +18,7 @@ conda install -y -c conda-forge jupyterlab
 conda install -y -c conda-forge beakerx
 conda install -y -c conda-forge xeus-cling
 conda install -y -c conda-forge xeus-python
+conda install iy -c conda-forge spleeter
 
 # Some extra packages for your environments
 # conda install -y -c anaconda pyodbc
